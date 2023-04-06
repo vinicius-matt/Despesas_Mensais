@@ -1,0 +1,16 @@
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\obj\Debug\net5.0\DespesasMensais.csproj.AssemblyReference.cache
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\obj\Debug\net5.0\DespesasMensais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\obj\Debug\net5.0\DespesasMensais.AssemblyInfoInputs.cache
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\obj\Debug\net5.0\DespesasMensais.AssemblyInfo.cs
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\obj\Debug\net5.0\DespesasMensais.csproj.CoreCompileInputs.cache
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\bin\Debug\net5.0\DespesasMensais.exe
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\bin\Debug\net5.0\DespesasMensais.deps.json
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\bin\Debug\net5.0\DespesasMensais.runtimeconfig.json
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\bin\Debug\net5.0\DespesasMensais.runtimeconfig.dev.json
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\bin\Debug\net5.0\DespesasMensais.dll
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\bin\Debug\net5.0\DespesasMensais.pdb
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\obj\Debug\net5.0\DespesasMensais.dll
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\obj\Debug\net5.0\refint\DespesasMensais.dll
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\obj\Debug\net5.0\DespesasMensais.pdb
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\obj\Debug\net5.0\DespesasMensais.genruntimeconfig.cache
+C:\Users\Matheus.braz\source\repos\DespesasMensais\DespesasMensais\obj\Debug\net5.0\ref\DespesasMensais.dll
